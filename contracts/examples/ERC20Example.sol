@@ -2,8 +2,8 @@
 pragma solidity ^0.8.0;
 
 contract SimpleERC20Token {
-    string public name = "ExampleToken";
-    string public symbol = "EXT";
+    string public name = "BertBay";
+    string public symbol = "BB";
     uint8 public decimals = 18;
     uint256 public totalSupply = 1000000 * (10 ** uint256(decimals));
 
