@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "../libraries/ReservoirLock.sol";
 import "../interfaces/IReservoir.sol";
 
-contract ElkReservoirExample is ReservoirLock {
+contract BBReservoir is ReservoirLock {
     using SafeMath for uint256;
     using SafeERC20 for IERC20;
 
