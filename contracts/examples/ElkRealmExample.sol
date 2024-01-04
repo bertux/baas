@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 import "../libraries/ERC20Realm.sol";
 
-contract ElkRealmExample is ERC20Realm {
+contract BBRealm is ERC20Realm {
     using SafeMath for uint256;
     using SafeERC20 for IERC20;
 
